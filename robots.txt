@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaviduhasanjith.github.io/Around-Magazine/sitemap.xml
