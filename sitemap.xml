@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
+  <url>
+    <loc>https://kaviduhasanjith.github.io/Around-Magazine/</loc>
+  </url>
+
+  <!-- Sports page -->
+  <url>
+    <loc>https://kaviduhasanjith.github.io/Around-Magazine/sports.html</loc>
+  </url>
+
+  <!-- Fashion page -->
+  <url>
+    <loc>https://kaviduhasanjith.github.io/Around-Magazine/fashion.html</loc>
+  </url>
+
+  <!-- Example Fashion article page -->
+  <url>
+    <loc>https://kaviduhasanjith.github.io/Around-Magazine/fashion-article1.html</loc>
+  </url>
+
+  <!-- Example News page -->
+  <url>
+    <loc>https://kaviduhasanjith.github.io/Around-Magazine/news.html</loc>
+  </url>
+
+  <!-- Example Travel page -->
+  <url>
+    <loc>https://kaviduhasanjith.github.io/Around-Magazine/travel.html</loc>
+  </url>
+
+</urlset>
 
